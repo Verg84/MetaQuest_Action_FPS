@@ -1,0 +1,44 @@
+﻿
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Editor-generated files
+/.vs/
+/.idea/
+/.utmp/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.suo
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+
+# Builds and signing credentials
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Unity recovery files
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# Mixamo assets: download separately
+/Assets/Characters/Enemy/XXX/
+/Assets/Characters/Enemy/XXX.meta
